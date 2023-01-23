@@ -12,7 +12,7 @@
 ## Languages
 
 
-[![Top Langs](https://github-readme-stats-trymnohg.vercel.app/api/top-langs/?username=TrymNOHG&exclude_repo=VR-Go-Kart&hide=HLSL,ShaderLab&layout=compact&count_private=true)](https://github.com/TrymNOHG/github-readme-stats)
+[![Top Langs](https://github-readme-stats-trymnohg.vercel.app/api/top-langs/?username=TrymNOHG&exclude_repo=VR-Go-Kart&hide=HLSL,ShaderLab&layout=compact&count_private=true&langs_count=10)](https://github.com/TrymNOHG/github-readme-stats)
 
 <hr>
 
