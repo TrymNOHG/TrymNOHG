@@ -6,13 +6,13 @@
 <!-- Thanks to https://github.com/antonkomarev/github-profile-views-counter for creating the counter!-->
 
 
-![Trym's GitHub stats](https://github-readme-stats-sigma-five-trymnohg.vercel.app/api?username=TrymNOHG&theme=dark&show_icons=true&count_private=true)
+![Trym's GitHub stats](https://github-readme-stats-trymnohg.vercel.app/api?username=TrymNOHG&theme=dark&show_icons=true&count_private=true)
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats for generating the stats!-->
 
 ## Languages
 
 
-[![Top Langs](https://github-readme-stats-sigma-five-trymnohg.vercel.app/api/top-langs/?username=TrymNOHG&exclude_repo=VR-Go-Kart&hide=HLSL,ShaderLab,CMake&layout=compact&count_private=true&langs_count=10)](https://github.com/TrymNOHG/github-readme-stats)
+[![Top Langs](https://github-readme-stats-trymnohg.vercel.app/api/top-langs/?username=TrymNOHG&exclude_repo=VR-Go-Kart&hide=HLSL,ShaderLab,CMake&layout=compact&count_private=true&langs_count=10)](https://github.com/TrymNOHG/github-readme-stats)
 
 <hr>
 
